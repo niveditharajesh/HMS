@@ -38,7 +38,7 @@ const Footer = () => {
         {/* Copyright Text */}
         <hr />
         <p className="py-5 text-sm text-center">
-          Copyright 2024@ Prescripto - All Rights Reserved.
+          Copyright 2024@ HMS - All Rights Reserved.
         </p>
       </div>
     </div>
